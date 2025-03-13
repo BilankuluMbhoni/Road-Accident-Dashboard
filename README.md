@@ -70,8 +70,9 @@ This project was created using **Excel** for data processing and visualization. 
 - created pivot tables according to the queations asked.
 - merge all pivot tables into one dashboard and apply sclicer to make dynamic  
    ```
-2. Open the dataset in Excel for preprocessing.
-3. Navigate through the dashboard to analyze trends and insights.
+## dashboard
+![Screenshot (3)](https://github.com/user-attachments/assets/4958ca91-7cf7-450d-8aec-9184876227c0)
+
 
 ## Contributors
 - **Bilankulu Mbhobni** - Data Analysis & Visualization
